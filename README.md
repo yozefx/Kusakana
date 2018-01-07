@@ -62,34 +62,39 @@ Il y a plusieurs classes dans les packages contenus dans le package ASM, en voic
 
 <table>
   <tr>
-    <td>Ressources pour Kusakana
-    </td>
     <td>
-Ressource de type Images
-    </td>
-    <td>
+      Ressource de type Images
 Ressource de type Animation
-    </td>
-    <td>
 Ressource de type Region
-    </td>
-    <td>
 Ressource de type Scene
-    </td>
-    <td>
 Ressource de type Background
-    </td>
-    <td>
 Ressource de typeObject
-    </td>
-    <td>
 Ressource de Puppet
-    </td>
-    <td>
 Ressource de type Path
-    </td>
-    <td>
 Ressource de type Font
     </td>
+    <td>
+      KuASMSprite
+KuASMAnimation
+KuASMRegion
+KuASMScene
+KuASMBackground
+KuASMObject
+KuASMPuppet
+KuASMPath
+KuASMFont
+    </td>
+    <td>
+     Images
+Animations
+Regions
+Scenes
+Backgrounds
+Objects
+Puppets
+Paths
+Fonts
+    </td> 
+
     <tr>
   </table>
