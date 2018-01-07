@@ -96,5 +96,5 @@ Paths
 Fonts
     </td> 
 
-    <tr>
+    </tr>
   </table>
