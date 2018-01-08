@@ -16,6 +16,7 @@ Les <a href="http://www.negrorevolutio.com/sommaire.html">licences</a> pour l'ex
 <a href="http://www.negrorevolutio.com">NegroRevolutio</a>
 
 # Kusakana [EN]
+<h3>
 <a href="http://www.negrorevolutio.com/kusakana.html">Kusakana</a> is a software published under two forms: Game creation Software and Library.<br/><br/>
 
 1- The Software part is written in C# and compiled under .NET Framework 4.6.1. It is free for personal or commercial use in compliance with the licenses offered on the <a href="http://www.negrorevolutio.com/sommaire.html">NegroRevolutio</a> website.<br/>
