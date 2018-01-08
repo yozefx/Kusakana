@@ -23,7 +23,7 @@ Les <a href="http://www.negrorevolutio.com/sommaire.html">licences</a> pour l'ex
 <h2><a href="http://www.negrorevolutio.com/Kusakana/kusakana.zip">Download Kusakana</a></h2><h3>
 2- The library contains the game engine. Currently only written in Java, based on <a href="https://libgdx.badlogicgames.com">LibGDX</a>, the game engine is intended to be ported to all possible platforms and be rewritten in several programming languages.<br/>
 This is the reason for his presence on Github. It is here to find contributors who can offer portings or bindings for other platforms and languages.<br/>
-Its source code is an Eclipse project. You can either import it directly into Eclipse or use another IDE that supports the import of Eclipse projects to import it.<br/>
+Its source code is an Eclipse project. You can either import it directly into Eclipse or use some other IDEs that support the Eclipse projects imports to import it.<br/>
 Or you can simply import the compiled game engine as a Java library (kusakana.jar) into your Java LibGDX project to manually add the code of your Kusakana game.<br/><br/>
 
 The <a href="http://www.negrorevolutio.com/sommaire.html">licenses</a> for the exploitation of Kusakana Games Editor and/or Game Engine are available on the official website of <a href="http://www.negrorevolutio.com">NegroRevolutio</a>
