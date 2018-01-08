@@ -4,7 +4,7 @@
 un logiciel de création des jeux et une librairie.<br/><br/>
 
 1- Le logiciel est écrit en C# et compilé sous .NET Framework 4.6.1. Il est gratuit pour une utilisation personnelle ou commerciale dans le respect des licences proposées sur le site <a href="http://www.negrorevolutio.com/sommaire.html">NegroRevolutio</a>.<br/>
-<h1><a href="http://www.negrorevolutio.com/Kusakana/kusakana.zip">Téléchargez Kusakana</a></h1>
+<h2><a href="http://www.negrorevolutio.com/Kusakana/kusakana.zip">Téléchargez Kusakana</a></h2>
 
 <h3>
 2- La librairie contient le moteur des jeux. Actuellement uniquement écrit en Java, basée sur <a href="https://libgdx.badlogicgames.com">LibGDX</a>, le moteur des jeux est prévu pour être porté sur toutes les plateformes possibles et être réécrit dans plusieurs langages de programmation.<br/>
