@@ -1,7 +1,7 @@
 # Kusakana [FR]
 <h3>
-Nous sommes fier de vous présenter le premier logiciel de création de création des jeux vidéo made in Africa : <b>Kusakana</b>.<br/>
-Kusakana vous génère des <b>jeux opensource</b> et des <b>livres enseignant le game development</b> <br/>
+Nous sommes fier de vous présenter le premier logiciel de création de création des jeux vidéo made in Africa : <b>Kusakana</b>.<br/><br/>
+Kusakana vous génère des <b>jeux opensource</b> et des <b>livres enseignant le game development</b> <br/><br/>
 <a href="http://www.negrorevolutio.com/kusakana.html">Kusakana</a> est un logiciel publié sous deux formes : 
 un logiciel de création des jeux et une librairie.<br/><br/>
 
@@ -19,8 +19,8 @@ Les <a href="http://www.negrorevolutio.com/sommaire.html">licences</a> pour l'ex
 
 # Kusakana [EN]
 <h3>
-So proud to introduce to you the first game creation software made in Africa : <b>Kusakana</b>.<br/>
-Kusakana is a maker of <b>opensource games</b> and <b>books teaching game development</b> <br/>
+So proud to introduce to you the first game creation software made in Africa : <b>Kusakana</b>.<br/><br/>
+Kusakana is a maker of <b>opensource games</b> and <b>books teaching game development</b> <br/><br/>
 <a href="http://www.negrorevolutio.com/kusakana.html">Kusakana</a> is a software published under both Game creation Software and Library form.<br/><br/>
 
 1- The Software part is written in C# and compiled under .NET Framework 4.6.1. It is free for personal or commercial use in compliance with the licenses offered on the <a href="http://www.negrorevolutio.com/sommaire.html">NegroRevolutio</a> website.<br/>
